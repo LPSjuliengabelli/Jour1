@@ -1,0 +1,43 @@
+! Summary of output files for parameterized project.
+!
+! Project: CPW.sonx
+! Folder:  C:\Physics\Enseignement\Radio_frequency_electronics_Formation_continue\Session Mars 2026\Sonnet
+! Date:    02/24/2026 12:47:39
+
+FTYP POFL 1
+HDATE 02/24/2026 12:38:38
+
+
+USER_FILE CPW.snp
+
+OUTPUT_FILE CPW_param1.snp
+PARAMS
+Lk = 0
+END PARAMS
+
+OUTPUT_FILE CPW_param2.snp
+PARAMS
+Lk = 0.2
+END PARAMS
+
+OUTPUT_FILE CPW_param3.snp
+PARAMS
+Lk = 0.4
+END PARAMS
+
+OUTPUT_FILE CPW_param4.snp
+PARAMS
+Lk = 0.6000000000000001
+END PARAMS
+
+OUTPUT_FILE CPW_param5.snp
+PARAMS
+Lk = 0.8
+END PARAMS
+
+OUTPUT_FILE CPW_param6.snp
+PARAMS
+Lk = 1
+END PARAMS
+
+END USER_FILE
